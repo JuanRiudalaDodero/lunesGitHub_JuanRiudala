@@ -8,5 +8,5 @@ body {
     display: block;
     background-color: red;
     height: 300px;
-    border-radius: 150px 150px 150px 150px;
+    border-radius: 150px;
 }

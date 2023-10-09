@@ -4,9 +4,9 @@ body {
     align-items: center;
 }
 
-.circulo {
-    display: block;
-    background-color: red;
-    height: 300px;
-    border-radius: 150px;
+.circle {
+    background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
 }
